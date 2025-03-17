@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Pit Bull Discrimination: Facts and My Story"
+  navbar:
+    left:
+      - text: "Home"
+        href: pitbull.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: journal
+    css: styles.css
